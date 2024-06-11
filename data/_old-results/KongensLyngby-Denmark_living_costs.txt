@@ -1,0 +1,24 @@
+{
+  "anual_living_cost_usd": {
+    "min": 14000,
+    "max": 22000
+  },
+  "living_costs_details": {
+    "min": {
+      "housing": 8000,
+      "food": 3000,
+      "health": 500,
+      "pleasure": 1000,
+      "transport": 1000,
+      "miscellaneous": 500
+    },
+    "max": {
+      "housing": 12000,
+      "food": 5000,
+      "health": 1000,
+      "pleasure": 2000,
+      "transport": 1500,
+      "miscellaneous": 1500
+    }
+  }
+}

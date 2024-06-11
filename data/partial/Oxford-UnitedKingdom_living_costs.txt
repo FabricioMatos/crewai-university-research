@@ -1,0 +1,26 @@
+```json
+{
+  "anual_living_cost_usd": {
+    "min": 15480,
+    "max": 22080
+  },
+  "living_costs_details": {
+    "min": {
+      "food": 3600,
+      "accommodation": 8580,
+      "personal_items": 2160,
+      "social_activities": 480,
+      "study_costs": 420,
+      "other": 240
+    },
+    "max": {
+      "food": 5640,
+      "accommodation": 10320,
+      "personal_items": 3660,
+      "social_activities": 1080,
+      "study_costs": 960,
+      "other": 420
+    }
+  }
+}
+```

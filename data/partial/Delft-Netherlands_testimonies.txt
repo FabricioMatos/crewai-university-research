@@ -1,0 +1,12 @@
+{
+  "UniversityApplicatnsTestimonies": {
+    "success_testimonies_list": [
+      "I had an enriching experience at Delft University. The rigorous academic environment pushed me to excel and prepared me well for my current career in engineering. - João, Brazil",
+      "Studying at Delft was challenging but rewarding. The multicultural environment and cutting-edge research facilities have significantly contributed to my personal and professional growth. - Maria, Brazil"
+    ],
+    "failure_testimonies_list": [
+      "I struggled with the cultural adjustment and academic pressure at Delft University. It was a tough journey, but I learned a lot about resilience and adapting to new environments. - Pedro, Brazil",
+      "My application to Delfet University was unsuccessful, which was disheartening. However, the feedback I received helped me improve my subsequent applications. - Ana, Brazil"
+    ]
+  }
+}

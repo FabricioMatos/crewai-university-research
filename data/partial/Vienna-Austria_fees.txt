@@ -1,0 +1,4 @@
+{
+  "anual_fee_usd": 1504.84,
+  "fee_details": "The annual tuition fee for a master's program in Quantum Computing at the University of Vienna for non-EU/EEA citizens, which includes Brazilian applicants, is approximately 751.42 EUR per semester. This includes a tuition fee of 726.72 EUR and a Students' Union fee of 24.70 EUR. This amounts to about 1504.84 USD annually (assuming a conversion rate of 1 EUR = 1.06 USD). There are no specific financial incentives available for Brazilian students unless they qualify under exceptions for students from developing countries or have equal status with EU/EEA citizens."
+}

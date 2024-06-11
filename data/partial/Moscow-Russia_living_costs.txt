@@ -1,0 +1,46 @@
+The annual living costs in Moscow can be summarized based on the observed data for various expenses:
+
+```json
+{
+  "anual_living_cost_usd": {
+    "min": 10000,
+    "max": 24000
+  },
+  "living_costs_details": {
+    "housing": {
+      "min": 480,
+      "max": 1660
+    },
+    "food": {
+      "min": 560,
+      "max": 670
+    },
+    "health": {
+      "min": 1000,
+      "max": 1500
+    },
+    "pleasure": {
+      "min": 1500,
+      "max": 6000
+    },
+    "transportation": {
+      "min": 60,
+      "max": 2730
+    },
+    "utilities": {
+      "min": 8000,
+      "max": 14450
+    },
+    "childcare": {
+      "min": 25000,
+      "max": 75000
+    },
+    "clothing_and_shoes": {
+      "min": 2000,
+      "max": 20000
+    }
+  }
+}
+```
+
+This JSON object provides a structured presentation of the annual living costs and detailed breakdowns for various categories in Moscow, Russia. The values are estimated based on the monthly costs projected annually. The details for each category are represented as minimum and maximum values observed or calculated from the data provided. There is no specific information regarding restrictions for Brazilian applicants included in the data.

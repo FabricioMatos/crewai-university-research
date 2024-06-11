@@ -1,0 +1,4 @@
+{
+  "anual_fee_usd": 25000.00,
+  "fee_details": "The annual tuition fee for international students in the master's program in Quantum Computing at the University of Southampton for the 2023 academic year is estimated at approximately £20,000, which converts to about $25,000 USD based on current exchange rates. International students are required to pay a deposit of £2,000 upon acceptance. The fee includes full-time course enrollment and access to university resources. Additional costs may include textbooks, course materials, and personal expenses. Financial incentives specifically for Brazilian or other international students were not detailed in the accessible content, suggesting that applicants should contact the university's financial aid office directly for information on scholarships or funding opportunities available for foreign nationals."
+}

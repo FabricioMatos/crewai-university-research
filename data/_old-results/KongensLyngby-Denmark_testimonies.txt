@@ -1,0 +1,6 @@
+{
+  "success_testimonies_list": [
+    "Rishav Chand shared his journey of securing a Ph.D. position at the Technical University of Denmark, detailing the significant struggles and mental health challenges he faced prior to his acceptance. Despite numerous rejections and personal hardships exacerbated by the pandemic, Rishav persevered and was finally successful in his application. His story highlights the resilience required to overcome substantial obstacles and the emotional toll of the application process. This testimony can serve as an inspiration to prospective students, showing that persistence and resilience can eventually lead to success. Reference: https://www.linkedin.com/posts/rishavchand_success-hope-technicaluniversitydenmark-activity-6854432782245011456-cRhF"
+  ],
+  "failure_testimonies_list": []
+}

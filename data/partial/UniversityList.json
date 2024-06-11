@@ -1,0 +1,254 @@
+{
+    "universities": [
+        {
+            "name": "University of Cambridge",
+            "country": "United Kingdom",
+            "city": "Cambridge"
+        },
+        {
+            "name": "University of Oxford",
+            "country": "United Kingdom",
+            "city": "Oxford"
+        },
+        {
+            "name": "Imperial College London",
+            "country": "United Kingdom",
+            "city": "London"
+        },
+        {
+            "name": "Federal Institute of Technology Lausanne",
+            "country": "Switzerland",
+            "city": "Lausanne"
+        },
+        {
+            "name": "Swiss Federal Institute of Technology Zurich",
+            "country": "Switzerland",
+            "city": "Zurich"
+        },
+        {
+            "name": "University of Manchester",
+            "country": "United Kingdom",
+            "city": "Manchester"
+        },
+        {
+            "name": "Pierre and Marie Curie University",
+            "country": "France",
+            "city": "Paris"
+        },
+        {
+            "name": "University College London",
+            "country": "United Kingdom",
+            "city": "London"
+        },
+        {
+            "name": "Delft University of Technology",
+            "country": "Netherlands",
+            "city": "Delft"
+        },
+        {
+            "name": "Technical University of Munich",
+            "country": "Germany",
+            "city": "Munich"
+        },
+        {
+            "name": "Catholic University of Leuven",
+            "country": "Belgium",
+            "city": "Leuven"
+        },
+        {
+            "name": "Moscow State University",
+            "country": "Russia",
+            "city": "Moscow"
+        },
+        {
+            "name": "Karlsruhe Institute of Technology",
+            "country": "Germany",
+            "city": "Karlsruhe"
+        },
+        {
+            "name": "Vienna University of Technology",
+            "country": "Austria",
+            "city": "Vienna"
+        },
+        {
+            "name": "Technical University of Denmark",
+            "country": "Denmark",
+            "city": "Kongens Lyngby"
+        },
+        {
+            "name": "University of Southampton",
+            "country": "United Kingdom",
+            "city": "Southampton"
+        },
+        {
+            "name": "Paris-Sud University",
+            "country": "France",
+            "city": "Paris"
+        },
+        {
+            "name": "University of Stuttgart",
+            "country": "Germany",
+            "city": "Stuttgart"
+        },
+        {
+            "name": "KTH Royal Institute of Technology",
+            "country": "Sweden",
+            "city": "Stockholm"
+        },
+        {
+            "name": "Sapienza University of Rome",
+            "country": "Italy",
+            "city": "Rome"
+        },
+        {
+            "name": "University of Bristol",
+            "country": "United Kingdom",
+            "city": "Bristol"
+        },
+        {
+            "name": "RWTH Aachen University",
+            "country": "Germany",
+            "city": "Aachen"
+        },
+        {
+            "name": "Lund University",
+            "country": "Sweden",
+            "city": "Lund"
+        },
+        {
+            "name": "Uppsala University",
+            "country": "Sweden",
+            "city": "Uppsala"
+        },
+        {
+            "name": "Eindhoven University of Technology",
+            "country": "Netherlands",
+            "city": "Eindhoven"
+        },
+        {
+            "name": "Heidelberg University",
+            "country": "Germany",
+            "city": "Heidelberg"
+        },
+        {
+            "name": "University of Sheffield",
+            "country": "United Kingdom",
+            "city": "Sheffield"
+        },
+        {
+            "name": "Chalmers University of Technology",
+            "country": "Sweden",
+            "city": "Gothenburg"
+        },
+        {
+            "name": "University of Erlangen Nuremberg",
+            "country": "Germany",
+            "city": "Erlangen"
+        },
+        {
+            "name": "University of Edinburgh",
+            "country": "United Kingdom",
+            "city": "Edinburgh"
+        },
+        {
+            "name": "Utrecht University",
+            "country": "Netherlands",
+            "city": "Utrecht"
+        },
+        {
+            "name": "University of Munich",
+            "country": "Germany",
+            "city": "Munich"
+        },
+        {
+            "name": "University of Groningen",
+            "country": "Netherlands",
+            "city": "Groningen"
+        },
+        {
+            "name": "University of Nottingham",
+            "country": "United Kingdom",
+            "city": "Nottingham"
+        },
+        {
+            "name": "University of Bologna",
+            "country": "Italy",
+            "city": "Baita"
+        },
+        {
+            "name": "University of Amsterdam",
+            "country": "Netherlands",
+            "city": "Amsterdam"
+        },
+        {
+            "name": "Polytechnic University of Milan",
+            "country": "Italy",
+            "city": "Milan"
+        },
+        {
+            "name": "University of Leeds",
+            "country": "United Kingdom",
+            "city": "Leeds"
+        },
+        {
+            "name": "Claude Bernard University Lyon 1",
+            "country": "France",
+            "city": "Lyon"
+        },
+        {
+            "name": "University of Vienna",
+            "country": "Austria",
+            "city": "Vienna"
+        },
+        {
+            "name": "Ruhr University Bochum",
+            "country": "Germany",
+            "city": "Bochum"
+        },
+        {
+            "name": "University of Padua",
+            "country": "Italy",
+            "city": "Padua"
+        },
+        {
+            "name": "Ghent University",
+            "country": "Belgium",
+            "city": "Ghent"
+        },
+        {
+            "name": "Durham University",
+            "country": "United Kingdom",
+            "city": "Durham"
+        },
+        {
+            "name": "University of Hamburg",
+            "country": "Germany",
+            "city": "Hamburg"
+        },
+        {
+            "name": "University of Geneva",
+            "country": "Switzerland",
+            "city": "Geneva"
+        },
+        {
+            "name": "Technical University of Berlin",
+            "country": "Germany",
+            "city": "Berlin"
+        },
+        {
+            "name": "Leiden University",
+            "country": "Netherlands",
+            "city": "Leiden"
+        },
+        {
+            "name": "University of Birmingham",
+            "country": "United Kingdom",
+            "city": "Birmingham"
+        },
+        {
+            "name": "University of Copenhagen",
+            "country": "Denmark",
+            "city": "Copenhagen"
+        }
+    ]
+}

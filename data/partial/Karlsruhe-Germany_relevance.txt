@@ -1,0 +1,15 @@
+```json
+{
+  "level": "high",
+  "main_researchers_list": [
+    "Prof. Matthieu Le Tacon",
+    "Amir-Abbas Haghighirad",
+    "Jörg Schmalian"
+  ],
+  "main_research_fields_list": [
+    "Superconducting Quantum Circuits",
+    "Quantum Materials and Device Physics",
+    "Quantum Information and Quantum Computing Technologies"
+  ]
+}
+```

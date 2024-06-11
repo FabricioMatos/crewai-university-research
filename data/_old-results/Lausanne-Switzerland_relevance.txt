@@ -1,0 +1,15 @@
+```json
+{
+  "level": "high",
+  "main_researchers_list": [
+    "Giuseppe Carleo",
+    "Cristina Benea-Chelmus",
+    "Hatice Altug"
+  ],
+  "main_research_fields_list": [
+    "Quantum support vector machines and variational quantum dynamics",
+    "Neural-network quantum states for ultra-cold Fermi gases",
+    "Hybrid ground-state quantum algorithms based on neural Schrödinger forging"
+  ]
+}
+```

@@ -1,0 +1,24 @@
+```json
+{
+  "success_testimonies_list": [
+    {
+      "testimony": "At Zurich everyone is a talent - Brazil Success Story (Portuguese subtitles)",
+      "link": "https://www.youtube.com/watch?v=QrfB2JOUaRY"
+    }
+  ],
+  "failure_testimonies_list": [
+    {
+      "testimony": "Transfer from US college to uni in Switzerland - A Brazilian student considers transferring to a Swiss university but reconsiders after learning about the non-transferability of credits and the restrictive policies for EU citizens.",
+      "link": "https://talk.collegeconfidential.com/t/transfer-from-us-college-to-uni-in-switzerland/1777759"
+    },
+    {
+      "testimony": "I am originally from Brazil, and I came to Switzerland as a PhD student - A Brazilian PhD student faces legal and work permit issues in Switzerland, leading to employment termination and possible legal complications.",
+      "link": "https://www.justanswer.com/european-law/ofpae-originally-brazil-switzerland.html"
+    },
+    {
+      "testimony": "Why do Swiss Universities (including ETHZ, EPFL and FH/HES) only have two exam attempts - A student discusses the strict examination rules at Swiss universities that led to their failure in completing the degree.",
+      "link": "https://www.reddit.com/r/ethz/comments/197a73i/why_do_swiss_universities_including_ethz_epfl_and/"
+    }
+  ]
+}
+```

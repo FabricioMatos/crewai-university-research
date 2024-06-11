@@ -1,0 +1,10 @@
+{
+  "success_testimonies_list": [
+    "Jordan Aisenstat from the University of British Columbia, Canada, found his stay at LMU Munich memorable, appreciating the opportunity to attend university classes in person again post-COVID-19 and enjoying the campus and community. (https://www.lmu.de/en/study/all-degrees-and-programs/programs-for-international-visiting-students/erasmus-and-lmuexchange/testimonials/index.html)",
+    "Maximiliano Perry from Pontificia Universidad Católica de Chile enjoyed studying subjects with innovative perspectives at LMU and valued the social opportunities in Munich that allowed him to connect with many individuals. (https://www.lmu.de/en/study/all-degrees-and-programs/programs-for-international-visiting-students/erasmus-and-lmuexchange/testimonials/index.html)",
+    "Claudia Walter from the University of Melbourne loved the student culture at LMU and the community feel of the student accommodation, appreciating the proactive student groups and the organized activities exploring Bavaria. (https://www.lmu.de/en/study/all-degrees-and-programs/programs-for-international-visiting-students/erasmus-and-lmuexchange/testimonials/index.html)"
+  ],
+  "failure_testimonies_list": [
+    "While the testimonials reviewed do not explicitly mention failures in the application process, some students like Jordan Aisenstat faced challenges in meeting and making new friends, which was initially a significant hurdle in their exchange experience. (https://www.lmu.de/en/study/all-degrees-and-programs/programs-for-international-visiting-students/erasmus-and-lmuexchange/testimonials/index.html)"
+  ]
+}

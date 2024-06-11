@@ -1,0 +1,6 @@
+```json
+{
+  "anual_fee_usd": 182.00,
+  "fee_details": "The Master's program in Quantum Science & Technology at the Technical University of Munich has no tuition fees for international students from non-EU countries, including Brazilians. The only mandatory cost is the semester fee of approximately €85 per semester, which translates to about $91 USD per semester given the current exchange rate. This fee covers student services and a semester ticket for public transportation, amounting to approximately $182 USD annually. In addition to this, there are scholarships and financial aids available for international students, which can further assist in covering living expenses and other costs during their studies."
+}
+```

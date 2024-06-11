@@ -1,0 +1,8 @@
+{
+  "success_testimonies_list": [
+    "Caz from Bucks, United Kingdom, shares her journey from struggling in school to successfully gaining admission to Oxford University by harnessing the power of positive thinking and manifestation. Despite her early academic setbacks and personal challenges, she adopted a positive mindset influenced by 'The Secret,' which eventually led her to apply and be accepted into a course at Oxford. Her story is a testament to the power of self-belief and resilience. Read her full story here: https://www.thesecret.tv/stories/manifested-studying-university-oxford/"
+  ],
+  "failure_testimonies_list": [
+    "A Reddit user shares the disheartening experience of being rejected from Oxford despite having excellent academic credentials, including 4A*s and 10 9s at GCSE. The post highlights the intense competition and unpredictability of the Oxford admissions process, reflecting a common sentiment among high-achieving students who face rejection from top universities. This story serves as a reminder of the challenges and subjective nature of competitive academic admissions. Read the discussion here: https://www.reddit.com/r/6thForm/comments/z4ap0l/imagine_getting_rejected_from_oxford_with_4as_and/"
+  ]
+}

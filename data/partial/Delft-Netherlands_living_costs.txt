@@ -1,0 +1,43 @@
+```json
+{
+  "anual_living_cost_usd": {
+    "min": 11340.00,
+    "max": 17400.00
+  },
+  "living_costs_details": {
+    "housing": {
+      "min": 3600.00,
+      "max": 10800.00
+    },
+    "food": {
+      "min": 1800.00,
+      "max": 1800.00
+    },
+    "health": {
+      "included": "Remember to include additional expenses like study materials and health insurance in your budget."
+    },
+    "pleasure": {
+      "min": 360.00,
+      "max": 600.00
+    },
+    "utilities": {
+      "min": 1644.00,
+      "max": 1644.00
+    },
+    "transportation": {
+      "min": 240.00,
+      "max": 360.00
+    }
+  }
+}
+```
+Explanation:
+- **Annual Living Cost USD**: Calculated by converting the monthly cost in euros (EUR 780 – 1200) to USD and multiplying by 12 months. The conversion rate is assumed to be 1 EUR = 1.07 USD (approximate current conversion rate).
+- **Housing**: Ranges from EUR 300 (for a shared student room) to EUR 900 (for a private apartment) per month.
+- **Food**: Estimated at EUR 150 per month.
+- **Health**: Additional expenses like study materials and health insurance are advised to be included.
+- **Pleasure**: Includes costs for movies, museums, and gyms ranging from EUR 30 to EUR 50 per month.
+- **Utilities**: Average monthly cost is EUR 137.
+- **Transportation**: Estimated monthly cost is EUR 20-30.
+
+This detailed breakdown should provide a comprehensive view of the expected annual living costs for a student in Delft, tailored to aid budget planning for prospective students, especially those from Brazil considering educational opportunities at Delft University of Technology.

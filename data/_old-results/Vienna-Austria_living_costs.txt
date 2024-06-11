@@ -1,0 +1,26 @@
+```json
+{
+  "anual_living_cost_usd": {
+    "min": 14106.48,
+    "max": 18748.64
+  },
+  "living_costs_details": {
+    "housing": {
+      "min": 8978.28,
+      "max": 11970.04
+    },
+    "food": {
+      "min": 2244.6,
+      "max": 2994.12
+    },
+    "health": {
+      "min": 1795.66,
+      "max": 2394.04
+    },
+    "leisure": {
+      "min": 1088.94,
+      "max": 1451.92
+    }
+  }
+}
+```

@@ -1,0 +1,8 @@
+{
+  "success_testimonies_list": [
+    "I Manifested Studying At The University of Oxford! - A 21-year-old writer from Bucks, United Kingdom, shares a journey of overcoming initial academic setbacks and personal challenges. Discovering 'The Secret' transformed her outlook, leading her to successfully apply and get accepted into Oxford University. Her story is a testament to the power of positive thinking and acting upon one's intuition. [https://www.thesecret.tv/stories/manifested-studying-university-oxford/]"
+  ],
+  "failure_testimonies_list": [
+    "I failed to get into Oxford... and it turned out okay! - Zubair Junjunia shares his challenging experience of being rejected by Oxford and how this setback redirected his path towards UCL, where he thrived and pursued entrepreneurial success. This story highlights the importance of resilience and the unexpected benefits that can arise from reevaluating one's goals. [https://www.linkedin.com/pulse/i-failed-get-oxford-turned-out-okay-zubair-junjunia-frsa]"
+  ]
+}

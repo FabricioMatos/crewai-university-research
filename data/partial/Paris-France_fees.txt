@@ -1,0 +1,4 @@
+{
+  "anual_fee_usd": 3958.5,
+  "fee_details": "The annual tuition fee for the Master's in Quantum Information at Sorbonie University is approximately $3958.50 USD, based on a rough estimate of the current exchange rate of 1 EUR = 1.05 USD. This program is dedicated to Quantum Information and supported by the Quantum Information Center Sorbonne, Computer Science Master Department, and Physics Master Department. It involves faculty from LIP6, LKB, and INRIA who teach recent research results in quantum algorithmics, quantum cryptography, photonic quantum computing, and quantum information theory."
+}

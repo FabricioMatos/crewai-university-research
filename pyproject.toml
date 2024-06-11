@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "university-research-crew"
+version = "0.1.0"
+description = ""
+authors = ["Fabricio Vargas Matos <fabriciovargasmatos@gmail.com>"]
+readme = "README.md"
+packages = []
+
+[tool.poetry.dependencies]
+python = "3.12.2"
+transformers = "^4.40.2"
+jupyterlab = "^4.2.0"
+langchain-groq = "^0.1.3"
+crewai-tools = "0.2.3"
+crewai = "0.28.1"
+torch = "^2.3.0"
+sentencepiece = "^0.2.0"
+ollama = "^0.2.0"
+sentence-transformers = "^2.7.0"
+agentops = "^0.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

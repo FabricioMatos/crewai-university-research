@@ -1,0 +1,8 @@
+{
+  "success_testimonies_list": [
+    "Sarah, an undergraduate student from Virginia Tech, participated in the EuroScholars program at KU Leuven. Despite initial nervousness and feeling overwhelmed, Sarah found the environment welcoming and educational. Her work in audiology alongside PhD students provided her with valuable hands-on research experience, contributing significantly to her confidence and skills. This positive involvement not only enhanced her academic journey but also allowed her to form lasting bonds during the program's MidStay, enriching her overall experience abroad. Reference: https://euroscholars.eu/student-experiences/stories/sarah-atique"
+  ],
+  "failure_testimonies_list": [
+    "An European student shared their frustrating experience while applying for a Chemistry Masters at KU Leuven on Reddit. The student faced delays and communication issues with the admissions office, which affected their decision-making process as they also had a conditional offer from the University of Edinburgh. The lengthy verification process and the slow response from the admissions team created a situation where the student felt unsupported and uncertain about their application's status. Reference: https://www.reddit.com/r/KULeuven/comments/gx8ne8/application_process_issues/"
+  ]
+}

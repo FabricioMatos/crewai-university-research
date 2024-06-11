@@ -1,0 +1,9 @@
+{
+  "success_testimonies_list": [
+    {
+      "summary": "Ana Livia Araujo Esteves, a journalist and doctoral student from Sao Paulo, Brazil, shares her enriching educational journey in Moscow. Motivated by a gap in perspectives in her studies in Brazil, Ana moved to Russia to pursue a master's degree in Russian Foreign Policy at MGIMO. She received a scholarship from Rossotrudnichestvo and later continued her PhD at HSE University. Ana's testimony highlights the academic support she received, her integration into the cultural fabric of Moscow, and her ongoing contributions to bridging Russian-Brazilian relations through her research and teaching. Her story is a testament to the academic opportunities and personal growth that Moscow universities can offer to international students from South America.",
+      "source_link": "https://www.hse.ru/en/news/edu/216919883.html"
+    }
+  ],
+  "failure_testimonies_list": []
+}

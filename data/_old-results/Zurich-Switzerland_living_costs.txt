@@ -1,0 +1,29 @@
+```json
+{
+  "anual_living_cost_usd": {
+    "min": 53649.76,
+    "max": 90369.12
+  },
+  "living_costs_details": {
+    "min": {
+      "housing": 18864,
+      "food": 10985.76,
+      "health": 1620,
+      "pleasure": 1080
+    },
+    "max": {
+      "housing": 47112,
+      "food": 10985.76,
+      "health": 1620,
+      "pleasure": 2160
+    }
+  }
+}
+```
+Explanation:
+- **Housing**: Monthly rent for a normal area (85 m2) is CHF 2,853, and in an expensive area it's CHF 3,923. Annual cost ranges from CHF 34,236 (normal area) to CHF 47,076 (expensive area). Converted to USD: $36,975.12 (normal) to $50,842.08 (expensive).
+- **Food**: Average monthly cost for food per person is CHF 850. For two people: CHF 1,700 per month or CHF 20,400 annually. Converted to USD: $22,032.
+- **Health**: Average cost for a doctor's visit is CHF 135. Assuming a minimum of one visit per month, the annual cost is CHF 1,620. Converted to USD: $1,749.60.
+- **Pleasure**: Entertainment costs such as dining out and movies are estimated at around CHF 100 monthly per person. For two people: CHF 200 per month or CHF 2,400 annually. Converted to USD: $2,592.
+
+Note: The provided ranges consider different living standards (basic to more comfortable) and are based on available data, rounded to a practical estimate.
