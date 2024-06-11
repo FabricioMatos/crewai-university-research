@@ -1,4 +1,0 @@
-{
-  "anual_fee_usd": 45000.00,
-  "fee_details": "The University Composition Fee for the Master's program in Quantum Computing at Cambridge University covers the cost of teaching, supervision, and access to university facilities and support services. The annual fee for international students for the 2024/25 academic year is approximately £36,000, which is roughly $45,000 USD, depending on the current exchange rate. Financial incentives include scholarships available through the Cambridge Trust, which offers various scholarships each year to international students, including Brazilian applicants. These scholarships can cover part or all of the tuition fees and sometimes include a stipend for living expenses."
-}

@@ -1,6 +1,0 @@
-```json
-{
-  "anual_fee_usd": 43920.00,
-  "fee_details": "The annual course fees for the MSc in Advanced Computer Science at Oxford University for overseas students for the 2024-25 academic year are £36,000. When converted to USD at an exchange rate of 1.22 USD/GBP (as of the data available), this amounts to approximately $43,920. The fees cover teaching and other academic services and facilities provided to support the studies. Additional costs may include travel expenses, research expenses, and field trips associated with a dissertation or thesis, which are not included in the tuition fees. Students will need to meet these additional costs themselves, although small grants might be available from the department or college to cover some of these expenses. Over 1,000 full or partial graduate scholarships are expected to be available at Oxford, and students are automatically considered for the majority of these scholarships if they meet the eligibility criteria and submit their graduate application by the relevant deadline."
-}
-```

@@ -1,4 +1,0 @@
-{
-  "anual_fee_usd": 16213.712,
-  "fee_details": "The annual tuition fee for the Master's program in Quantum Information Science at the Technical University of Denmark (DTU) is calculated based on the tuition of 7500 EUR per semester, totaling 15000 EUR annually. Using the current exchange rate of 1.07642 USD for 1 EUR, the annual tuition fee in USD is approximately 16156.3 USD. Additionally, DTU offers tuition fee waivers for MSc students, which could potentially reduce the cost for qualified Brazilian or foreign applicants. DTU also supports students with information on external scholarships and has provisions for non-EU/EEA citizens who are exempt from paying tuition."
-}

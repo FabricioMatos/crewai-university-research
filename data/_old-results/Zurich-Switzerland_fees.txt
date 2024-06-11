@@ -1,4 +1,0 @@
-{
-  "anual_fee_usd": 1500.00,
-  "fee_details": "The annual tuition fee for the Master's in Quantum Engineering at ETH Zurich is CHF 1460 (approximately USD 1500 at the current exchange rate). This fee is applicable for both Swiss and international students and is charged per semester at CHF 730. The fee covers enrollment in all courses for each regular semester and for the semester in which the Master’s thesis is written. There are no specific financial incentives mentioned for Brazilian or other foreign students beyond the standard fee structure."
-}

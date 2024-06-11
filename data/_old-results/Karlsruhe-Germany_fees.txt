@@ -1,6 +1,0 @@
-```json
-{
-  "anual_fee_usd": 3000.00,
-  "fee_details": "For international students (from third countries/non-EU countries) attending a consecutive master’s program at KIT, the tuition fees are EUR 1,500 per semester starting from the 2017/2018 winter semester. This totals to approximately USD 3,000 annually (exchange rate considered as 1 EUR = 1.0 USD for simplicity). Exemptions from these fees include students with EU/EEA citizenship, international students who have passed the German 'Abitur' in Germany or at a German school abroad, students coming to KIT under cooperation programs (e.g., Erasmus Mundus, ERASMUS+, double-degree students, EUCOR), doctoral students, students with scholarships from Baden-Württemberg Stiftung, and DAAD scholarship holders in specific programs. Additional exemptions are available for refugees, students with established living conditions in Germany, and students with disabilities. Financial hardships and delays caused by unforeseen circumstances like the Corona pandemic may also qualify for fee remission."
-}
-```
