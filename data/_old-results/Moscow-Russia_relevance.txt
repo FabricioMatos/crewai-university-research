@@ -1,0 +1,15 @@
+```json
+{
+  "level": "high",
+  "main_researchers_list": [
+    "Voevodin Vladimir",
+    "Ozhigov Yury",
+    "Molotkov Sergey"
+  ],
+  "main_research_fields_list": [
+    "Simulation of quantum systems",
+    "Quantum cryptography",
+    "High-performance computing"
+  ]
+}
+```

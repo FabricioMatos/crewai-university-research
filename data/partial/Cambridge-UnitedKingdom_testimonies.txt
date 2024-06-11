@@ -1,0 +1,18 @@
+{
+  "success_testimonies_list": [
+    {
+      "testimony": "Mic Wright, who came from a family where no one else had attended university, described his interview experience at Cambridge as relaxing and positive. Despite minimal preparation and being from a less privileged background, he felt welcomed and encouraged during his interview at Homerton College. His experience was so positive that it led him to volunteer for interview days throughout his undergraduate career, contributing to the supportive community.",
+      "source": "https://www.theguardian.com/commentisfree/2016/feb/05/your-stories-of-getting-into-university-the-good-the-bad-and-the-ugly"
+    }
+  ],
+  "failure_testimonies_list": [
+    {
+      "testimony": "Matt Thrower experienced a very exclusive and uncomfortable interview process at Oxford University, which was part of his applications to Oxbridge. He felt isolated and unsupported as the only applicant from a state college among peers from private schools. The aggressive and unsettling nature of the interview led him to abandon his application and return home, concluding that it was one of the best decisions he ever made.",
+      "source": "https://www.theguardian.com/commentisfree/2016/feb/05/your-stories-of-getting-into-university-the-good-the-bad-and-the-ugly"
+    },
+    {
+      "testimony": "Jen Thomas, a mature student, initially faced rejection from the broadcast journalism course at Nottingham Trent University due to her non-traditional educational background. Despite her extensive practical experience, the university was concerned about her academic preparedness after being out of formal education for many years. After a direct appeal and successful voice test and interview, she was granted an unconditional offer, turning her initial failure into a success story.",
+      "source": "https://www.theguardian.com/commentisfree/2016/feb/05/your-stories-of-getting-into-university-the-good-the-bad-and-the-ugly"
+    }
+  ]
+}

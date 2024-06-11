@@ -1,0 +1,13 @@
+{
+  "level": "high",
+  "main_researchers_list": [
+    "Eleni Diamanti",
+    "Researchers from QICS",
+    "Researchers from Université Paris-Saclay"
+  ],
+  "main_research_fields_list": [
+    "Quantum Computing Hardware & Software",
+    "Quantum Communication & Post-Quantum Cryptography",
+    "Quantum Sensing & Metrology"
+  ]
+}

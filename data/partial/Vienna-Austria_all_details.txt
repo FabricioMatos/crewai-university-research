@@ -1,0 +1,58 @@
+```json
+{
+  "university": {
+    "name": "University of Vienna",
+    "country": "Austria",
+    "city": "Vienna"
+  },
+  "fee": {
+    "anual_fee_usd": 1504.84,
+    "fee_details": "The annual tuition fee for a master's program in Quantum Computing at the University of Vienna for non-EU/EEA citizens, which includes Brazilian applicants, is approximately 751.42 EUR per semester. This includes a tuition fee of 726.72 EUR and a Students' Union fee of 24.70 EUR. This amounts to about 1504.84 USD annually (assuming a conversion rate of 1 EUR = 1.06 USD). There are no specific financial incentives available for Brazilian students unless they qualify under exceptions for students from developing countries or have equal status with EU/EEA citizens."
+  },
+  "living_costs": {
+    "anual_living_cost_usd": {
+      "min": 14106.48,
+      "max": 18748.64
+    },
+    "living_costs_details": {
+      "housing": {
+        "min": 8978.28,
+        "max": 11970.04
+      },
+      "food": {
+        "min": 2244.6,
+        "max": 2994.12
+      },
+      "health": {
+        "min": 1795.66,
+        "max": 2394.04
+      },
+      "leisure": {
+        "min": 1088.94,
+        "max": 1451.92
+      }
+    }
+  },
+  "relevance": {
+    "level": "high",
+    "main_researchers_list": [
+      "Časlav Brukner",
+      "Borivoje Dakić",
+      "Philip Walther"
+    ],
+    "main_research_fields_list": [
+      "Quantum Foundations",
+      "Quantum Information Theory",
+      "Quantum Optics and Information Processing"
+    ]
+  },
+  "testimonies": {
+    "success_testimonies_list": [
+      "Jaqueline Cassemiro from Brazil shared her experience at the University of Vienna's winter school. She described it as a fabulous opportunity to learn both inside and outside the classroom. The morning classes with excellent professors were complemented by afternoon excursions or free time to explore Vienna and its cultural offerings. She found it very rewarding to be in a city that breathes culture and is close to other European cities. This experience was one of the best in her life, providing her with invaluable learning and travel opportunities and a chance to meet people from around the world."
+    ],
+    "failure_testimonies_list": [
+      "A Brazilian applicant shared their experience of being rejected from the Academy of Fine Arts Vienna. The failure was particularly hard as it coincided with personal setbacks, making the experience miserable. Despite the rejection, the applicant found the process a significant learning experience about dealing with failure and resilience."
+    ]
+  }
+}
+```

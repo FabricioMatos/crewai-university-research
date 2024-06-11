@@ -1,0 +1,12 @@
+```json
+{
+  "anual_living_cost_usd": {
+    "min": 35000,
+    "max": 45000
+  },
+  "living_costs_details": {
+    "min": 18000,
+    "max": 22000
+  }
+}
+```

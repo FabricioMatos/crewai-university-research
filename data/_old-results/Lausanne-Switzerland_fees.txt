@@ -1,0 +1,4 @@
+{
+  "anual_fee_usd": 1716.00,
+  "fee_details": "The annual tuition fee for the Quantum Science and Engineering master's program at EPFL for international students is approximately 1716 USD, which includes two semesters at 858 USD each (based on the exchange rate of 1 CHF = 1.1 USD). This covers the tuition fee of 730 CHF and additional compulsory fees totaling 50 CHF per semester. Financial incentives include exemptions for students participating in academic mobility or joint diploma programs, and scholarships such as the Master Excellence fellowships and need-based scholarships are available."
+}

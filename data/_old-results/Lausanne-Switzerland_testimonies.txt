@@ -1,0 +1,10 @@
+{
+  "success_testimonies_list": [
+    "Paul, a successful applicant, shared his journey of applying to a university in Lausanne. Despite initial setbacks with visa issues and language barriers, he persisted and was eventually accepted into a prestigious program. His advice to future applicants is to meticulously prepare for the language proficiency tests and to connect with current students for insights and support.",
+    "Maria recounted her successful application to a medical program in Lausanne. She highlighted the importance of early preparation, especially for securing recommendation letters and gaining relevant medical experience. Her testimony is a beacon for aspiring medical students, emphasizing resilience and proactive planning."
+  ],
+  "failure_testimonies_list": [
+    "John shared his story of a failed attempt to join an engineering program in Lausanne. He underestimated the competitiveness of the application process and missed crucial deadlines for scholarship applications. His experience serves as a cautionary tale about the importance of understanding application timelines and requirements.",
+    "Linda's application to a biochemistry program was unsuccessful due to a lack of specific laboratory experience required by the university. She advises future applicants to thoroughly research program requirements and seek opportunities to gain relevant experience well ahead of application deadlines."
+  ]
+}

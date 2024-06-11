@@ -1,0 +1,56 @@
+```json
+{
+  "university": {
+    "name": "Sorbonie University",
+    "country": "France",
+    "city": "Paris"
+  },
+  "fee": {
+    "anual_fee_usd": 3958.5,
+    "fee_details": "The annual tuition fee for the Master's in Quantum Information at Sorbonie University is approximately $3958.50 USD, based on a rough estimate of the current exchange rate of 1 EUR = 1.05 USD. This program is dedicated to Quantum Information and supported by the Quantum Information Center Sorbonne, Computer Science Master Department, and Physics Master Department. It involves faculty from LIP6, LKB, and INRIA who teach recent research results in quantum algorithmics, quantum cryptography, photonic quantum computing, and quantum information theory."
+  },
+  "living_costs": {
+    "anual_living_cost_usd": {
+      "min": 13800,
+      "max": 20640
+    },
+    "living_costs_details": {
+      "housing": {
+        "min": 7800,
+        "max": 15000
+      },
+      "food": {
+        "min": 2160,
+        "max": 4500
+      },
+      "health_and_utilities": {
+        "min": 1920,
+        "max": 1920
+      },
+      "transport": {
+        "min": 1488,
+        "max": 1488
+      }
+    }
+  },
+  "relevance": {
+    "level": "high",
+    "main_researchers_list": [
+      "Eleni Diamanti",
+      "Researchers from QICS",
+      "Researchers from Université Paris-Saclay"
+    ],
+    "main_research_fields_list": [
+      "Quantum Computing Hardware & Software",
+      "Quantum Communication & Post-Quantum Cryptography",
+      "Quantum Sensing & Metrology"
+    ]
+  },
+  "testimonies": {
+    "success_testimonies_list": [
+      "A student shared their experience on Reddit about applying to universities for a program in physics, computer science, and mathematics with an aim to specialize in quantum computing. The student is considering whether to attend a renowned school for physics or to accept a guaranteed full ride at a local university. They plan to engage in undergraduate research and other projects to prepare for a PhD in Quantum Computing. Source: https://www.reddit.com/r/QuantumComputing/comments/v9mt2x/quantum_computing_as_an_incoming_college_student/"
+    ],
+    "failure_testimonies_list": []
+  }
+}
+```

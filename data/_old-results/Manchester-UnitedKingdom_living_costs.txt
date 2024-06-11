@@ -1,0 +1,51 @@
+```json
+{
+  "anual_living_cost_usd": {
+    "min": 16956.32,
+    "max": 18792.32
+  },
+  "living_costs_details": {
+    "housing": {
+      "min": 9180,
+      "max": 10920
+    },
+    "food": {
+      "min": 5748,
+      "max": 5748
+    },
+    "health": {
+      "min": 60,
+      "max": 360
+    },
+    "leisure": {
+      "min": 480,
+      "max": 480
+    },
+    "transport": {
+      "min": 960,
+      "max": 960
+    },
+    "clothes": {
+      "min": 840,
+      "max": 840
+    },
+    "utilities": {
+      "min": 1440,
+      "max": 1440
+    },
+    "personal_care": {
+      "min": 180,
+      "max": 360
+    }
+  }
+}
+```
+
+Explanation:
+- The annual living costs are calculated by multiplying the monthly costs by 12.
+- Housing costs are derived from monthly accommodation costs provided (£765 for off-campus and £619 for on-campus, converted to USD).
+- Food costs are estimated from monthly costs for groceries and eating out.
+- Health, leisure, transport, clothes, utilities, and personal care costs are estimated from the detailed expenses provided in the content.
+- Utilities are included in housing costs but listed separately for clarity.
+- Costs are shown in USD, using a rough conversion rate of 1.25 USD to 1 GBP, which may fluctuate due to exchange rates.
+- This detailed breakdown covers all the main aspects affecting a student's budget in Manchester, UK.

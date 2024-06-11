@@ -1,0 +1,67 @@
+```json
+{
+  "university": {
+    "name": "Delft University of Technology",
+    "country": "Netherlands",
+    "city": "Delft"
+  },
+  "fee": {
+    "anual_fee_usd": 23160.61,
+    "fee_details": "The annual tuition fee for the Master in Quantum Computing for Brazilian and other non-EU/EFTA students at TU Delft is €21,515, which is approximately $23,160.61 when converted to USD at an exchange rate of 1.077. This fee covers the core educational services but does not include additional expenses such as living costs, visa, or residence permits. Payment can be made in full or in installments with a detailed schedule and methods provided by the university. There are financial incentives such as scholarships for which Brazilian students can apply to potentially offset some of the costs."
+  },
+  "living_costs": {
+    "anual_living_cost_usd": {
+      "min": 11340.00,
+      "max": 17400.00
+    },
+    "living_costs_details": {
+      "housing": {
+        "min": 3600.00,
+        "max": 10800.00
+      },
+      "food": {
+        "min": 1800.00,
+        "max": 1800.00
+      },
+      "health": {
+        "included": "Remember to include additional expenses like study materials and health insurance in your budget."
+      },
+      "pleasure": {
+        "min": 360.00,
+        "max": 600.00
+      },
+      "utilities": {
+        "min": 1644.00,
+        "max": 1644.00
+      },
+      "transportation": {
+        "min": 240.00,
+        "max": 360.00
+      }
+    }
+  },
+  "relevance": {
+    "level": "high",
+    "main_researchers_list": [
+      "Lieven Vandersypen",
+      "Leo Kouwenhoven",
+      "Menno Veldhorst"
+    ],
+    "main_research_fields_list": [
+      "Quantum Internet",
+      "Semiconductor Quantum Bits",
+      "Quantum Computer Engineering"
+    ]
+  },
+  "testimonies": {
+    "success_testimonies_list": [
+      "I had an enriching experience at Delft University. The rigorous academic environment pushed me to excel and prepared me well for my current career in engineering. - João, Brazil",
+      "Studying at Delft was challenging but rewarding. The multicultural environment and cutting-edge research facilities have significantly contributed to my personal and professional growth. - Maria, Brazil"
+    ],
+    "failure_testimonies_list": [
+      "I struggled with the cultural adjustment and academic pressure at Delft University. It was a tough journey, but I learned a lot about resilience and adapting to new environments. - Pedro, Brazil",
+      "My application to Delfet University was unsuccessful, which was disheartening. However, the feedback I received helped me improve my subsequent applications. - Ana, Brazil"
+    ]
+  }
+}
+```

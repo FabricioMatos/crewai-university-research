@@ -1,0 +1,13 @@
+{
+  "level": "high",
+  "main_researchers_list": [
+    "Professor Benjamin Beri",
+    "Professor Nilanjana Datta",
+    "Professor Adrian Kent"
+  ],
+  "main_research_fields_list": [
+    "Quantum Information Theory",
+    "Quantum Computation",
+    "Quantum Information, Foundations and Gravity"
+  ]
+}

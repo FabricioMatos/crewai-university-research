@@ -1,0 +1,56 @@
+```json
+{
+  "university": {
+    "name": "Technical University of Denmark",
+    "country": "Denmark",
+    "city": "Kongens Lyngby"
+  },
+  "fee": {
+    "anual_fee_usd": 16213.712,
+    "fee_details": "The annual tuition fee for the Master's program in Quantum Information Science at the Technical University of Denmark (DTU) is calculated based on the tuition of 7500 EUR per semester, totaling 15000 EUR annually. Using the current exchange rate of 1.07642 USD for 1 EUR, the annual tuition fee in USD is approximately 16156.3 USD. Additionally, DTU offers tuition fee waivers for MSc students, which could potentially reduce the cost for qualified Brazilian or foreign applicants. DTU also supports students with information on external scholarships and has provisions for non-EU/EEA citizens who are exempt from paying tuition."
+  },
+  "living_costs": {
+    "anual_living_cost_usd": {
+      "min": 14000,
+      "max": 22000
+    },
+    "living_costs_details": {
+      "min": {
+        "housing": 8000,
+        "food": 3000,
+        "health": 500,
+        "pleasure": 1000,
+        "transport": 1000,
+        "miscellaneous": 500
+      },
+      "max": {
+        "housing": 12000,
+        "food": 5000,
+        "health": 1000,
+        "pleasure": 2000,
+        "transport": 1500,
+        "miscellaneous": 1500
+      }
+    }
+  },
+  "relevance": {
+    "level": "high",
+    "main_researchers_list": [
+      "Ulrik Lund Andersen",
+      "Nika Akopian",
+      "Christopher Røhl Andersen"
+    ],
+    "main_research_fields_list": [
+      "Quantum Networks",
+      "Quantum Key Distribution",
+      "Quantum Photonics"
+    ]
+  },
+  "testimonies": {
+    "success_testimonies_list": [
+      "Rishav Chand shared his journey of securing a Ph.D. position at the Technical University of Denmark, detailing the significant struggles and mental health challenges he faced prior to his acceptance. Despite numerous rejections and personal hardships exacerbated by the pandemic, Rishav persevered and was finally successful in his application. His story highlights the resilience required to overcome substantial obstacles and the emotional toll of the application process. This testimony can serve as an inspiration to prospective students, showing that persistence and resilience can eventually lead to success. Reference: https://www.linkedin.com/posts/rishavchand_success-hope-technicaluniversitydenmark-activity-6854432782245011456-cRhF"
+    ],
+    "failure_testimonies_list": []
+  }
+}
+```

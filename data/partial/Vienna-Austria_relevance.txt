@@ -1,0 +1,13 @@
+{
+  "level": "high",
+  "main_researchers_list": [
+    "Časlav Brukner",
+    "Borivoje Dakić",
+    "Philip Walther"
+  ],
+  "main_research_fields_list": [
+    "Quantum Foundations",
+    "Quantum Information Theory",
+    "Quantum Optics and Information Processing"
+  ]
+}

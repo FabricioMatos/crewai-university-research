@@ -1,0 +1,4 @@
+{
+  "anual_fee_usd": 25000.00,
+  "fee_details": "The annual tuition fee for a Master's program in Quantum Computing at the University of Manchester for international students, including those from Brazil, is approximately $25,000 USD. This fee covers registration, tuition, supervision, examinations, and graduation. The fee structure is designed to accommodate the various costs associated with non-clinical and clinical components of different programs. Students have the option to pay their fees in instalments and can also explore various funding options available specifically for international students, such as scholarships and grants, to support their studies."
+}

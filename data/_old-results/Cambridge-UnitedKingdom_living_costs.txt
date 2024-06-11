@@ -1,0 +1,40 @@
+{
+  "anual_living_cost_usd": {
+    "min": 13116,
+    "max": 17520
+  },
+  "living_costs_details": {
+    "housing": {
+      "min": 8640,
+      "max": 8640
+    },
+    "food": {
+      "min": 2220,
+      "max": 2220
+    },
+    "health": {
+      "min": 0,
+      "max": 0
+    },
+    "pleasure": {
+      "min": 1080,
+      "max": 1080
+    },
+    "study_materials": {
+      "min": 240,
+      "max": 240
+    },
+    "transport": {
+      "min": 0,
+      "max": 0
+    },
+    "personal_items": {
+      "min": 912,
+      "max": 912
+    },
+    "miscellaneous": {
+      "min": 540,
+      "max": 540
+    }
+  }
+}
