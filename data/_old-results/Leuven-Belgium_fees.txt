@@ -1,4 +1,0 @@
-{
-  "anual_fee_usd": 4500.00,
-  "fee_details": "The estimated annual tuition fee for international master's students at KU Leuven is approximately €4,000 to €6,000, which converts to about USD 4,500 based on current exchange rates. This fee can vary depending on specific programs and the number of credits taken. Additionally, KU Leuven offers scholarships and financial waivers, which Brazilian students may be eligible to apply for, potentially reducing the overall cost of attendance."
-}

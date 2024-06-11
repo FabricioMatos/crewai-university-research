@@ -1,4 +1,0 @@
-{
-  "anual_fee_usd": 7280.375,
-  "fee_details": "The annual tuition fee for a postgraduate program at Moscow State University is approximately 582,430 RUR, which converts to about $7,280.375 USD at an exchange rate of 1 USD = 80 RUR. The cost of living is estimated at 168,000 RUR annually. No specific financial incentives for Brazilian or foreign students were mentioned on the webpage."
-}

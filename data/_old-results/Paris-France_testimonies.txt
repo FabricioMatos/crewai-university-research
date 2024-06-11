@@ -1,6 +1,0 @@
-{
-  "success_testimonies_list": [
-    "A student shared their experience on Reddit about applying to universities for a program in physics, computer science, and mathematics with an aim to specialize in quantum computing. The student is considering whether to attend a renowned school for physics or to accept a guaranteed full ride at a local university. They plan to engage in undergraduate research and other projects to prepare for a PhD in Quantum Computing. Source: https://www.reddit.com/r/QuantumComputing/comments/v9mt2x/quantum_computing_as_an_incoming_college_student/"
-  ],
-  "failure_testimonies_list": []
-}

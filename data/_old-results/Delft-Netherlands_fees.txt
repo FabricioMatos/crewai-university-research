@@ -1,6 +1,0 @@
-```json
-{
-  "anual_fee_usd": 23160.61,
-  "fee_details": "The annual tuition fee for the Master in Quantum Computing for Brazilian and other non-EU/EFTA students at TU Delft is €21,515, which is approximately $23,160.61 when converted to USD at an exchange rate of 1.077. This fee covers the core educational services but does not include additional expenses such as living costs, visa, or residence permits. Payment can be made in full or in installments with a detailed schedule and methods provided by the university. There are financial incentives such as scholarships for which Brazilian students can apply to potentially offset some of the costs."
-}
-```

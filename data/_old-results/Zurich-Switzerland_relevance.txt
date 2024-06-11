@@ -1,7 +1,0 @@
-```json
-{
-  "level": "high",
-  "main_researchers_list": ["Dr. Abdulkadir Akin", "Dr. Mohsen Bahrami Panah", "Peter Clements"],
-  "main_research_fields_list": ["Quantum Simulation", "Quantum Sensing", "Quantum Computing"]
-}
-```
